@@ -60,22 +60,11 @@ const nima = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nima-Kheradi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Kheradi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Nima-Kheradi&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima-Kheradi&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="activity graph" width="100%" />
+<img src="https://raw.githubusercontent.com/Nima-Kheradi/Nima-Kheradi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="profile details" />
+<img src="https://raw.githubusercontent.com/Nima-Kheradi/Nima-Kheradi/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
+<img src="https://raw.githubusercontent.com/Nima-Kheradi/Nima-Kheradi/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most used languages" />
+<img src="https://raw.githubusercontent.com/Nima-Kheradi/Nima-Kheradi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/Nima-Kheradi/Nima-Kheradi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time" />
 
 </div>
 
@@ -95,9 +84,7 @@ const nima = {
 
 <div align="center">
 
-<a href="https://github.com/Nima-Kheradi/Nima._.Khe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nima-Kheradi&repo=Nima._.Khe&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nima._.Khe" />
-</a>
+<a href="https://github.com/Nima-Kheradi/Nima._.Khe"><b>Nima._.Khe</b></a> — my personal repository 🚀
 
 </div>
 
