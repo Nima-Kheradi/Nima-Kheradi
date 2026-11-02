@@ -1,16 +1,125 @@
-## Hi there 👋
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<!--
-**Nima-Kheradi/Nima-Kheradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=Nima%20Kheradi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Tehran&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/Nima-Kheradi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=50&lines=Hi+%F0%9F%91%8B+I'm+Nima+Kheradi;Programmer+%26+always-learning+human;Building+things+for+the+web+%F0%9F%8C%90;Breaking+stuff+to+understand+how+it+works+%F0%9F%94%A7;Let's+build+something+cool+together+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nima-Kheradi&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="views" />
+<a href="https://github.com/Nima-Kheradi?tab=followers"><img src="https://img.shields.io/github/followers/Nima-Kheradi?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" alt="followers" /></a>
+<a href="https://nimakheradi.ir"><img src="https://img.shields.io/badge/Website-nimakheradi.ir-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="website" /></a>
+
+</div>
+
+<br/>
+
+---
+
+## 👨‍💻 About me
+
+```js
+const nima = {
+  name: "Nima Kheradi",
+  role: "Programmer",
+  location: "Tehran, Iran 🇮🇷",
+  focus: ["Web development", "Clean & fast UIs", "Backend logic"],
+  currentlyLearning: ["TypeScript", "System design", "Open source"],
+  funFact: "I break things on purpose to learn how they work.",
+  lookingFor: "Cool projects & people to build with",
+};
+```
+
+- 🌐 Building modern, fast and clean **web applications**
+- 🧠 Always learning — one bug at a time
+- 🤝 Open to collaboration, ideas and good coffee ☕
+- 📫 Reach me through my website: **[nimakheradi.ir](https://nimakheradi.ir)**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,python,git,github,linux,vscode&perline=12" alt="skills" />
+
+<br/><br/>
+
+<sub>🗄️ Databases & DevOps</sub>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,nginx,postman,figma&perline=12" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nima-Kheradi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Kheradi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Nima-Kheradi&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima-Kheradi&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="activity graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Nima-Kheradi/Nima-Kheradi/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Nima-Kheradi/Nima._.Khe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nima-Kheradi&repo=Nima._.Khe&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nima._.Khe" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://nimakheradi.ir"><img src="https://img.shields.io/badge/Portfolio-nimakheradi.ir-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+<a href="https://github.com/Nima-Kheradi"><img src="https://img.shields.io/badge/GitHub-Nima--Kheradi-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<!-- Uncomment and edit the ones you use:
+<a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://instagram.com/YOUR_ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 -->
+
+<br/><br/>
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
